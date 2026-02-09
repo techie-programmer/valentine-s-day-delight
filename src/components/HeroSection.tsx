@@ -26,8 +26,8 @@ const HeroSection = () => (
       </motion.div>
 
       <h1 className="text-5xl md:text-7xl font-display font-bold text-foreground mb-4 leading-tight">
-        Happy Valentine's Day,{" "}
-        <span className="text-gradient-rose italic">Sis</span>
+        Will you be my{" "}
+        <span className="text-gradient-rose italic">Valentine?</span>
       </h1>
 
       <motion.p
